@@ -1,4 +1,4 @@
-# Identifying Small Business Processes that can be Improved with AI
+
 
 ## Introduction
 

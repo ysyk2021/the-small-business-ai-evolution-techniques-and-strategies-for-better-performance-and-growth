@@ -1,5 +1,4 @@
-The Role of AI in Enhancing Small Business Performance and Growth
-==========================================================================================
+
 
 Small businesses today operate in a highly competitive and rapidly changing environment. To stay ahead of the competition, small business owners need to adopt new technologies and strategies that can enhance performance and drive growth. One such technology is artificial intelligence (AI).
 
