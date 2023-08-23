@@ -1,5 +1,4 @@
 
-
 Machine learning is a subset of artificial intelligence (AI) that involves training computer algorithms to learn from data inputs and make predictions or decisions. This technology has enormous potential for small businesses looking to enhance their performance and growth, by enabling them to make smarter, data-driven decisions.
 
 How Machine Learning Works

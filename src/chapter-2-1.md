@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore Natural Language Processing (NLP) as an AI technology that can enhance small business performance by automating customer service and feedback.
 
 What is NLP?

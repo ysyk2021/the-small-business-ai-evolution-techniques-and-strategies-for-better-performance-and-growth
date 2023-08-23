@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly turn to AI-powered tools to streamline their operations and improve performance, it's important to evaluate the impact that these technologies are having on their business. While AI can provide significant benefits, there are also tradeoffs that need to be understood and evaluated.
 
 Benefits of AI for Small Businesses
