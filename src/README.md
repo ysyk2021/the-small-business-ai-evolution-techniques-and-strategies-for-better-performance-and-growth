@@ -10,3 +10,7 @@ We will also discuss key considerations for evaluating the impact of AI on small
 By leveraging the power of AI technologies, small businesses can achieve long-term success and stay ahead of the curve. In the following chapters, we will explore how small businesses can effectively adopt and implement these technologies to optimize their operations, improve performance, and drive growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
